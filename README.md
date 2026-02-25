@@ -54,7 +54,7 @@
 
 #### 2️⃣ [IoT Data Streaming System](https://github.com/c1ayne/diplom-project)
 *Микросервисная архитектура для обработки потоковых данных (Дипломный проект).*
-*   **Стек:** `Kubernetes`, `Apache Kafka`, `MQTT`, `PostgreSQL`, `Java/Python`
+*   **Стек:** `Kubernetes`, `Apache Kafka`, `MQTT`, `PostgreSQL`, `Java`
 *   **Что сделано:**
     *   Спроектирован пайплайн: **MQTT Devices** → **Bridge Service** → **Kafka** → **PostgreSQL**.
     *   Написан сервис-мост (Bridge) для маршрутизации данных.
